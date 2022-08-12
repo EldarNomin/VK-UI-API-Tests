@@ -1,0 +1,9 @@
+{
+  "base_request": "https://api.vk.com/method/",
+  "version_api": "5.131",
+  "email": " ",
+  "password": " ",
+  "photo": "src/test/resources/photo.jpg",
+  "id": " ",
+  "token": " "
+}
