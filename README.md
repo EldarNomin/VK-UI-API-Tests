@@ -1,5 +1,3 @@
-# VK_API_tests
-
 
 [A1QA] Study project 
 
